@@ -13,4 +13,5 @@ public class StockMovement {
     private Instant createdAt;
     private MovementType movementType;
     private int quantity;
+    private Product product;
 }
